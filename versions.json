@@ -4,6 +4,37 @@
   "releases": [
     {
       "version": "1.5.1",
+      "build": 102,
+      "publishedAt": "2026-09-29T19:11:06Z",
+      "notesUrl": "https://github.com/imacek/fadecontrol-releases-windows-test/releases/tag/v1.5.1-alpha.102",
+      "installer": {
+        "url": "https://github.com/imacek/fadecontrol-releases-windows-test/releases/download/v1.5.1-alpha.102/FadeControl-Setup-1.5.1-alpha.102.exe",
+        "size": 81321781,
+        "sha256": "ae0381956fea70240f7eaa36d395695a6c2798ac9667fb829ed22d414a85fae5"
+      },
+      "notes": {
+        "title": "",
+        "sections": [
+          {
+            "title": "Features",
+            "lines": [
+              "Pipeline test build 102"
+            ],
+            "sections": null
+          },
+          {
+            "title": "Fixes",
+            "lines": [],
+            "sections": null
+          }
+        ]
+      },
+      "channel": "alpha",
+      "minWindows": "10.0.22000",
+      "channelDetail": "102"
+    },
+    {
+      "version": "1.5.1",
       "build": 101,
       "publishedAt": "2026-09-29T19:06:13Z",
       "notesUrl": "https://github.com/imacek/fadecontrol-releases-windows-test/releases/tag/v1.5.1-alpha.101",
